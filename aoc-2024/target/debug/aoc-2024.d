@@ -1,0 +1,1 @@
+/home/giuseppe/dev/personal/advent-of-code/aoc-2024/target/debug/aoc-2024: /home/giuseppe/dev/personal/advent-of-code/aoc-2024/src/main.rs /home/giuseppe/dev/personal/advent-of-code/aoc-2024/src/puzzles/day01.rs /home/giuseppe/dev/personal/advent-of-code/aoc-2024/src/puzzles/mod.rs
