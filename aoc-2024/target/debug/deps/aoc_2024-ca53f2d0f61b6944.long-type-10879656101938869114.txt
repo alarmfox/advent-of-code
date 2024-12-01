@@ -1,1 +1,0 @@
-Map<FlatMap<SplitWhitespace<'_>, Result<i32, ParseIntError>, {closure@src/puzzles/day01.rs:6:27: 6:30}>, fn(Result<_, _>) -> _ {Result::<_, _>::unwrap}>
