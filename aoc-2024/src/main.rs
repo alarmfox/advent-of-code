@@ -13,6 +13,8 @@ fn main() {
             let res = match arg {
                 "01-a" => puzzles::day01::part_a(input.as_str()),
                 "01-b" => puzzles::day01::part_b(input.as_str()),
+                "02-a" => puzzles::day02::part_a(input.as_str()),
+                "02-b" => puzzles::day02::part_b(input.as_str()),
                 _ => panic!("Unknown day"),
             };
             println!("{}", res);
