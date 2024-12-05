@@ -15,6 +15,9 @@ fn main() {
                 "01-b" => puzzles::day01::part_b(input.as_str()),
                 "02-a" => puzzles::day02::part_a(input.as_str()),
                 "02-b" => puzzles::day02::part_b(input.as_str()),
+                "03-a" => puzzles::day03::part_a(input.as_str()),
+                "03-b" => puzzles::day03::part_b(input.as_str()),
+                "04-a" => puzzles::day04::part_a(input.as_str()),
                 _ => panic!("Unknown day"),
             };
             println!("{}", res);
